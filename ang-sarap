@@ -1,0 +1,11 @@
+{
+  "title": "div.ERSName",
+  "author": ".author a",
+  "ingredient": {
+    "root": ".ERSIngredients > ul",
+    "row": "li[itemprop=recipeIngredient]",
+    "name": "",
+    "unit": "",
+    "amount": ""
+  }
+}
