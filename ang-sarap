@@ -1,11 +1,24 @@
-{
-  "title": "div.ERSName",
-  "author": ".author a",
-  "ingredient": {
-    "root": ".ERSIngredients > ul",
-    "row": "li[itemprop=recipeIngredient]",
-    "name": "",
-    "unit": "",
-    "amount": ""
+[
+  {
+    "title": "div.ERSName",
+    "author": ".author a",
+    "ingredient": {
+      "root": ".ERSIngredients > ul",
+      "row": "li[itemprop=recipeIngredient]",
+      "name": "",
+      "unit": "",
+      "amount": ""
+    }
+  },
+  {
+    "title": "article .post-title",
+    "author": "[rel=author]",
+    "ingredient": {
+      "root": "div.tasty-recipes-ingredients ul",
+      "row": "li",
+      "name": "",
+      "unit": "",
+      "amount": "span[data-amount]"
+    }
   }
-}
+]
