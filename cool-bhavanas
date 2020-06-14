@@ -1,0 +1,14 @@
+[
+    {
+        "title": "h1.c-tease__title",
+        "author": "",
+        "datePublished": "head meta[property='article:published_time']",
+        "ingredient": {
+            "root": ".c-tease__ingredients",
+            "row": "p",
+            "name": "",
+            "unit": "",
+            "amount": ""
+        }
+    }
+]

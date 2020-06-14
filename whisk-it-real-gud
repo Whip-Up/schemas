@@ -1,0 +1,14 @@
+[
+    {
+        "title": ".wprm-recipe-name",
+        "author": ".entry-author-name",
+        "datePublished": "head meta[property='article:published_time']",
+        "ingredient": {
+            "root": ".wprm-recipe-ingredients",
+            "row": ".wprm-recipe-ingredient",
+            "name": ".wprm-recipe-ingredient-name",
+            "unit": ".wprm-recipe-ingredient-unit",
+            "amount": ".wprm-recipe-ingredient-amount"
+        }
+    }
+]

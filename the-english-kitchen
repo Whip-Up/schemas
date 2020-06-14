@@ -1,0 +1,13 @@
+[
+    {
+        "title": "h1[itemprop=name]",
+        "author": "",
+        "ingredient": {
+            "root": ".ccm-section",
+            "row": "li[itemprop=recipeIngredient]",
+            "name": "",
+            "unit": "",
+            "amount": ""
+        }
+    }
+]

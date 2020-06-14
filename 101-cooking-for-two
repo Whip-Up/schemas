@@ -1,0 +1,14 @@
+[
+    {
+        "title": "h1.entrytitle",
+        "author": ".entry-author-name",
+        "datePublished": ".entry-time",
+        "ingredient": {
+            "root": ".wprm-recipe-ingredients",
+            "row": ".wprm-recipe-ingredient",
+            "name": ".wprm-recipe-ingredient-name",
+            "unit": ".wprm-recipe-ingredient-unit",
+            "amount": ".wprm-recipe-ingredient-amount"
+        }
+    }
+]
