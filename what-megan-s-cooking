@@ -2,10 +2,13 @@
     {
         "title": "h1.posttitle",
         "author": "",
+        "datePublished": "",
         "ingredient": {
             "root": ".mv-create-ingredients ul",
             "row": "li",
-            "name": ""
+            "name": "",
+            "unit": "",
+            "amount": ""
         }
     }
 ]
